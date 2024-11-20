@@ -1,0 +1,6 @@
+package org.juanbrenes.java.jdbc.models;
+
+public class Categoria {
+    private Long id;
+    
+}
